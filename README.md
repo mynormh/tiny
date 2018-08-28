@@ -7,7 +7,7 @@ Removes all spaces from a string.
 `$ npm install @bamblehorse/tiny`
 
 ## Usage
-```
+```js
 const tiny = require("@bamblehorse/tiny");
 
 tiny("So much space!");
